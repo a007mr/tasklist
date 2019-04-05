@@ -1,6 +1,6 @@
 # Tasklist
 
-Tasklist - app for holding your tasks using vanilla JavaScript.
+Tasklist - app for holding your tasks in browser using vanilla JavaScript.
 
 For UI using clean Materialize CSS framework.
 
